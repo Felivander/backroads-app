@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../../Desktop/examen"
+	}
+],
+  "settings": {
+    "emmet.preferences": {},
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    }
+  }
+}
